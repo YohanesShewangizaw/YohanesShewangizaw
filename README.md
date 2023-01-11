@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @YohanesShewangizaw
-- 👀 I’m interested in Programming and web development
+- 👋 Hi, I’m Yohanes Shewangizaw
+- 👀 I’m interested in application programming and web development
 - 🌱 I’m currently learning Computer Science.
 - 📫 Google Account yohanis5057@gmail.com
 
